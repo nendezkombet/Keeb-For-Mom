@@ -1,2 +1,2 @@
 # Keeb-For-Mom
-Low cost 4x5 modular mechanical keyboard
+KFM is a low cost 4x5 modular mechanical keyboard that everyone can build. 
