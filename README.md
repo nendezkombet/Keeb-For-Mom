@@ -80,8 +80,7 @@ Bottom view
 
 Stacked acrylic case 
 
-
-Soon !!!
+See inside "case" folder !!!
 
 
 ## Assembly Guide
