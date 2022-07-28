@@ -1,5 +1,5 @@
 # Keeb-For-Mom
-KFM is a low cost 4x5 modular mechanical keyboard that everyone can build. Modular it's mean can be combined the one and another in this context for the, so you can use the PCB board as single 4x5 macro pad or 4x10 ortholinier mechanical keyboard. The PCB board has some feature like south facing switches orientation, RGB perkey and passive buzzer supported which can be used as layer indicator. The firmware is fully QMK, see [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) then the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. 
+KFM is a low cost 4x5 modular mechanical keyboard that everyone can build. Modular it's mean two PCBs can be combined become one 40% keyboard, so you can use the PCB board as single 4x5 macro pad or 4x10 ortholinier mechanical keyboard. The PCB board has some feature like south facing switches orientation, RGB perkey and passive buzzer supported which can be used as layer indicator. The firmware is fully QMK, see [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) then the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. 
 
 Designer and maintainer: [sandipratama/nendezkombet](https://github.com/nendezkombet) 
 
