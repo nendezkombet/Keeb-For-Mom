@@ -57,9 +57,9 @@ Top view
 
 ![Screenshot 2022-07-27 194925](https://user-images.githubusercontent.com/82454371/181347419-60f54595-f402-46bb-8136-43930ea8aa3d.png)
 
-Bottom view with legend
+Bottom view
 
-Soon !!!
+![Screenshot 2022-07-27 194846](https://user-images.githubusercontent.com/82454371/181482157-231bf12e-715d-4003-9e5e-3a93660908fb.png)
 
 ## BOM
 
