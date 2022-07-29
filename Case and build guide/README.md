@@ -2,15 +2,14 @@ KFM build guide :
 
 
 Note : 
-// Using solder flux very recomended !!!
 
-// Prepare solder sucker if you make mistake
+- Using solder flux very recomended !!!
+- Prepare solder sucker if you make mistake
+- Clip the leg of the component if it's to long
+- Don't skip the build step
+- DO NOT RUIN YOUR WORKS AND COMPONENT FOR ONE SMALL MISTAKE, SO BE CAREFUL !!!
 
-// Clip the leg of the component if it's to long
 
-// Don't skip the build step
-
-// DO NOT RUIN YOUR WORKS AND COMPONENT FOR ONE SMALL MISTAKE, SO BE CAREFUL !!!
 
 ![PCB legend](https://user-images.githubusercontent.com/82454371/181808895-d70d973d-e642-4702-932d-1e14937ebf42.jpg)
 
@@ -50,10 +49,13 @@ Note :
 
 13. Before we solder all switches, plug usb cable and short all switches connector if everything works just install and tiddy up every switches
 14. Solder all switches
-15. Assembly the plate and congrats you had new 40% keyboard
+
 
 
 ![IMG_E0202](https://user-images.githubusercontent.com/82454371/181808535-3a0e34c2-a356-4ac0-9663-10bf5b6b0789.JPG)
-
 ![IMG_E0204](https://user-images.githubusercontent.com/82454371/181808589-287adeb9-fc1e-4a19-b7bc-9772656c6e70.JPG)
+
+
+15. Assembly the plate and congrats you had new 40% keyboard !!!
+
 
