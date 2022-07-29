@@ -1,0 +1,39 @@
+Electronic part list :
+
+1. 20-40x SK6812 mini-E RGB LEDs ( optional )
+2. 20-40x SMD 0805 100nF capacitors ( optional )
+3. 20-40 Cherry MX style switch
+4. 8x 10mm M3 "FEMALE TO FEMALE" standoff
+5. 8x 6mm height M3 screw
+6. 1x Arduino Promicro 32u4 5v
+7. 2x 220ohm or 330ohm resistor for RGB data line and Buzzer data line
+8. 1x micro switch for reset button
+9. 20-40x diode 1n4148m
+10.1x Passive buzzer 12mm ( optional )
+
+
+KFM USED PIN LIST :
+
+COL pin list (5, 8, 7, 6 )
+ROW pin list (15, 10, 16, 14 )
+
+Buzzer		B6
+RGB		F4
+ROW 1		B1
+ROW 2		F7
+ROW 3		F6
+ROW 4		F5
+COL 1		B3
+COL 2		B2
+COL 3		D1
+COL 4		D0
+COL 5		D4
+COL 6		C6
+COL 7		D7
+COL 8		E6
+COL 9		B4
+COL 10		B5
+
+
+if you have any question and find some bugs please contact me @synthvestigator.gmail or comment in my youtube video for this project @synthvestigator
+
