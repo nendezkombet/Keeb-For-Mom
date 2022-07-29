@@ -88,8 +88,7 @@ Bottom view
 
 Stacked acrylic case 
 
-See inside "case" folder !!!
-
+In the pictures above i just use top and bottom plate for PCB and switch support, but you can build your own full stacked acrylic case with PCB dimension as reference inside acrylic cutting file.
 
 ## Assembly Guide
 
