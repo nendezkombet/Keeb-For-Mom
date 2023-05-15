@@ -3,11 +3,13 @@ KFM is a low cost 4x5 modular mechanical keyboard that everyone can build. Modul
 
 Designer and maintainer: [sandipratama/nendezkombet](https://github.com/nendezkombet) 
 
-![IMG_E0210](https://user-images.githubusercontent.com/82454371/181726757-91a95865-3763-4eb9-a22a-bf9bcdbccc05.JPG)
+![xeropi1](https://github.com/nendezkombet/Keeb-For-Mom/assets/82454371/c2c39dee-5d21-4ead-9ba7-267fd6815a17)
 
-![IMG_E0212](https://user-images.githubusercontent.com/82454371/181726794-b39e31de-6dc8-44f1-acea-737fc7abbd9b.JPG)
+![xeropi3](https://github.com/nendezkombet/Keeb-For-Mom/assets/82454371/8644a1bf-c07a-4d0a-bef2-c184e4513cad)
 
-![IMG_E0213](https://user-images.githubusercontent.com/82454371/181726841-5dd09cfd-3291-49a7-8b81-f02abf416b71.JPG)
+![xeropi2](https://github.com/nendezkombet/Keeb-For-Mom/assets/82454371/99a986f6-d1dc-4eb3-a780-d52479048dc8)
+
+![xeropi4](https://github.com/nendezkombet/Keeb-For-Mom/assets/82454371/65e23757-147d-4b2a-960f-e8a29b919683)
 
 
 
